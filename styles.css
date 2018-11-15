@@ -1,0 +1,17 @@
+.result_section_col{
+    padding: 50px;
+    margin: 30px 0px 30px 0px;
+}
+.number_input_col{
+    margin-bottom: 20px;
+}
+.buttons_section_row{
+    margin-bottom: 50px;
+}
+.border {
+    border-width:5px !important;
+}
+.action_buttons button{
+    padding: 26px 42px 26px 42px;
+    margin-bottom: 5px;
+}
